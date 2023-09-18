@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mota-fernando&show_icons=true&theme=transparent" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mota-fernando&show_icons=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mota-fernando&layout=compact&langs_count=16&theme=transparent" />
+</div>
 
 ![Snake animation](https://github.com/mota-fernando/mota-fernando/blob/output/github-contribution-grid-snake.svg)
