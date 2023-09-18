@@ -1,4 +1,4 @@
-### <hello world> Hi there 👋! I'm Fernando a code craftsman building digital dreams. </hello world>
+### <hello world> Hi there 👋! I'm Fernando a code craftsman building digital dreams.
 
 <!--
 **mota-fernando/mota-fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
