@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mota-fernando&layout=compact&langs_count=16&theme=transparent&radfasf&arasfda&line_height=25" />
 </div>
 
-![Snake animation](https://github.com/mota-fernando/mota-fernando/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mota-fernando/mota-fernando/blob/output/github-contribution-grid-snake-dark.svg)
